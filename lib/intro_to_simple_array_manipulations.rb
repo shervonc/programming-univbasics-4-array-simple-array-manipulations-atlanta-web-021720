@@ -10,8 +10,9 @@ end
    array.pop
  end
  
- pop_with_args(array)
+ def pop_with_args(array)
  array.pop
  array.pop
  puts array
  end
+ 
