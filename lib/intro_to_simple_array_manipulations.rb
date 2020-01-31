@@ -11,8 +11,9 @@ end
  end
  
  def pop_with_args(array)
- array.pop
- array.pop
- puts array
+   newarray = []
+ newarray = array.pop
+ newarray = array.pop
+ puts newarray
  end
  
