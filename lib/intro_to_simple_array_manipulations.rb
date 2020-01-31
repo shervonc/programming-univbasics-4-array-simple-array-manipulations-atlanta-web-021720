@@ -40,3 +40,7 @@ def using_flatten(array)
   newarray = array.flatten
   return newarray
 end
+
+def using_delete(array, string)
+  
+end
